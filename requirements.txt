@@ -1,0 +1,4 @@
+jax
+jaxlib
+flax>=0.8
+optax
